@@ -1,0 +1,140 @@
+body{
+    
+    margin: 0;
+}
+.first-heading{
+    font-family: 'Yeseva One', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: rgb(255, 165, 0);
+}
+#red-border{
+    padding-left: 5px;
+    border-left: 5px solid rgb(216, 55, 55);
+    border-radius: 5px;
+}
+.two-colum{
+    display: flex;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width img{
+    width: 70%;
+}
+#fst-cont{
+    padding-top: 5%;
+    padding-left: 10%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(221, 91, 68);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+}
+.cntrd-heading{
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+#three-colum{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.one-third-width{
+    width: 33%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.one-third-width img{
+    width: 30%;
+}
+#blue-color{
+    background-color: rgb(237, 245, 246);
+}
+#pink-color{
+    background-color: rgb(255, 238, 238);
+}
+#yellow-color{
+    background-color: rgb(255, 244, 214);
+}
+#thrd-row-img{
+    width: 35%;
+    padding-left: 10%;
+    padding-top: 50px;
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 40%;
+    background-position: 15% 60%;
+    background-repeat: no-repeat;
+}
+#thrd-row-img img{
+    width: 90%;
+}
+#thrd-row-txt{
+    width: 65%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 80px;
+}
+h2{
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 30px;
+}
+#frth-row-img{
+    width: 35%;
+    padding-right: 10%;
+    padding-top: 50px;
+    padding-bottom: 5%;
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 40%;
+    background-position: 80% 90%;
+    background-repeat: no-repeat;
+}
+#frth-row-img img{
+    width: 100%;
+    height: 90%;
+}
+#frth-row-txt{
+    width: 65%;
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-top: 80px;
+}
+
+#ffth-row-img{
+    padding-left: 20%;
+    width: 100%;
+    background-image:  url(images/shapes/corona-virus.png);
+    background-size: 30%;
+    background-repeat: no-repeat;
+}
+#ffth-row-txt{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 10%;
+    padding-top: 20px;
+}
+footer{
+    margin: 0%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+}
+#f-txt{
+    font-family: 'Lobster', cursive;
+}
+#red-color{
+    color: red;
+}
